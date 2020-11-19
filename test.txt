@@ -1,1 +1,1 @@
-here is a text message from github remote
+Here is a text message from GitHub remote. This has been just updated.
